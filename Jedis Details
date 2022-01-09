@@ -1,0 +1,16 @@
+# codingdocs
+This Repo was created to store all my coding learning details
+
+1. Ip Commands
+* ifconfig
+* ipconfig
+
+2. Jedis Commands
+* brew services start redis
+* brew services stop redis
+* redis-cli
+* monitor
+* keys *
+* hgetall "34demo" ( to pull out all Field Values w.r.t Keys(pattern))
+* hset 34demo zzz aaa(set field value w.r.t keys(pattern))
+* hget 34demo 123 (get value w.r.t field and keys(pattern))

@@ -1,0 +1,9 @@
+
+1. Command to avoid sleep:
+	* nohup caffeinate -dsi &
+
+2. To view the text file in terminal
+   vi filename.txt
+ * To exit from Vim
+ :q!
+
